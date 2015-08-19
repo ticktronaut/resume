@@ -1,6 +1,6 @@
 # Resume
 
-images/cv.png
+![resume](images/cv.png)
 
 # TODO
 
