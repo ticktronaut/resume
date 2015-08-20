@@ -18,7 +18,7 @@ Thanks and all credits to Daniel Bruce for the beautiful pictograms. All of them
 
 ## License
 
-The work is licensed under Creative Commons. You are free to use the templates, also for commersial use. A mention like “Resume Template by Andreas Gschossmann — www.ticktronaut.de ” is considered acceptable attribution. You can place this in the footer of your website, on an about page or in the code if you don’t wanna give it to much attention.
+The work is licensed under Creative Commons. You are free to use the templates, also for commersial use. A mention like “Resume Template by Andreas Gschossmann — https://github.com/nerdOmat/resume ” is considered acceptable attribution. You can place this in the footer of your website, on an about page or in the code if you don’t wanna give it to much attention.
 
 ## TODO
 
