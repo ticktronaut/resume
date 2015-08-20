@@ -10,7 +10,7 @@ At the moment the red version is available only. However, different colors will 
 
 ## Typography 
 
-I am not an expert in these things, so I used Trebuchet MS font. It is popular and whitespread. Besides it is a good sans serif alternative to Arial.
+I am not an expert in these things, so I used Trebuchet MS font. It is popular and whitespread. Besides it is a good sans serif alternative to Arial, which makes a slight difference.
 
 ## Pictograms
 
