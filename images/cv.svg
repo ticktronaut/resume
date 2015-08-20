@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="344"
-   height="487"
+   width="348"
+   height="489"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -43,12 +43,12 @@
     </clipPath>
     <filter
        inkscape:collect="always"
-       id="filter4100"
+       id="filter4048"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.6226171"
-         id="feGaussianBlur4102" />
+         stdDeviation="4.0754442"
+         id="feGaussianBlur4050" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -59,8 +59,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="285.52721"
-     inkscape:cy="257.75559"
+     inkscape:cx="275.21047"
+     inkscape:cy="115.01953"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -250,22 +250,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-565.36218)">
+     transform="translate(0,-563.36218)">
     <rect
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.29999995;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4100);enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:0.64928906;fill-rule:nonzero;stroke:none;stroke-width:1.29999995;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4048);enable-background:accumulate"
        id="rect3256-6"
        width="747.513"
        height="1063.7955"
        x="4"
        y="-5.4333496"
-       transform="matrix(0.45025833,0,0,0.45025833,2.1428571,572.54002)" />
+       transform="matrix(0.45025833,0,0,0.45025833,4.1225519,572.10128)" />
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.29999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3256"
        width="336.57391"
        height="478.98279"
        x="2.1428571"
-       y="567.39203" />
+       y="565.96344" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3893"
@@ -321,7 +321,7 @@
        xml:space="preserve"
        style="font-size:19.92777443px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="28.113291"
-       y="610.922"
+       y="609.49341"
        id="text2996-7-4-3-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -330,13 +330,13 @@
          sodipodi:role="line"
          id="tspan2998-4-0-0-1"
          x="28.113291"
-         y="610.922"
+         y="609.49341"
          style="font-size:20.26162529px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ed3857;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">JOHN</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:19.92777443px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="86.830894"
-       y="611.3313"
+       y="609.90271"
        id="text2996-9-4-2-3-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -345,13 +345,13 @@
          sodipodi:role="line"
          id="tspan2998-0-2-1-4-1"
          x="86.830894"
-         y="611.3313"
+         y="609.90271"
          style="font-size:20.26162529px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ed3857;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">SMITH</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.75387478px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="44.493095"
-       y="661.76398"
+       y="660.33539"
        id="text2996-6-5-7-1-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -360,7 +360,7 @@
          sodipodi:role="line"
          id="tspan2998-5-5-5-2-3"
          x="44.493095"
-         y="661.76398"
+         y="660.33539"
          style="font-size:6.75387478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">OBJECTIVE</tspan></text>
     <rect
        style="fill:#ed3857;fill-opacity:1;stroke:none"
@@ -368,7 +368,7 @@
        width="12.516754"
        height="2.6561916"
        x="29.465275"
-       y="658.10083"
+       y="656.67224"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -376,7 +376,7 @@
        xml:space="preserve"
        style="font-size:3.98643351px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="37.227539"
-       y="618.50446"
+       y="617.07587"
        id="text3870-0-2-3-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -384,40 +384,40 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="37.227539"
-         y="618.50446"
+         y="617.07587"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
          id="tspan3891-7-7-5-2">111 Lorem Ipsum Street</tspan></text>
     <path
        id="path3068-3-0"
-       d="M 34.654538,617.48681 H 34.173 v 1.72801 c 0,0.12816 -0.05585,0.288 -0.287969,0.288 H 32.733 v -1.72801 h -1.151993 v 1.72801 h -1.152031 c -0.232114,0 -0.287969,-0.15984 -0.287969,-0.288 v -1.72801 h -0.481539 c -0.172255,0 -0.135387,-0.0933 -0.01715,-0.21543 l 2.310925,-2.31323 c 0.05616,-0.0582 0.129897,-0.087 0.203901,-0.0898 0.07404,0.003 0.147778,0.0314 0.203938,0.0898 l 2.31062,2.31294 c 0.118383,0.12241 0.155251,0.21572 -0.01716,0.21572 z"
+       d="M 34.654538,616.05823 H 34.173 v 1.72801 c 0,0.12816 -0.05585,0.288 -0.287969,0.288 H 32.733 v -1.72801 h -1.151993 v 1.72801 h -1.152031 c -0.232114,0 -0.287969,-0.15984 -0.287969,-0.288 v -1.72801 h -0.481539 c -0.172255,0 -0.135387,-0.0933 -0.01715,-0.21543 l 2.310925,-2.31323 c 0.05616,-0.0582 0.129897,-0.087 0.203901,-0.0898 0.07404,0.003 0.147778,0.0314 0.203938,0.0898 l 2.31062,2.31294 c 0.118383,0.12241 0.155251,0.21572 -0.01716,0.21572 z"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        id="path3101-3-8"
-       d="m 62.067428,623.38882 c 0,0.14282 0.04061,0.19977 0.146866,0.19977 0.23684,0 0.387632,-0.30177 0.387632,-0.80366 0,-0.76711 -0.55901,-1.13434 -1.256919,-1.13434 -0.717959,0 -1.370992,0.48148 -1.370992,1.3914 0,0.86912 0.571252,1.34244 1.448544,1.34244 0.297842,0 0.497779,-0.0326 0.803631,-0.13466 l 0.06565,0.27322 c -0.301962,0.0981 -0.624626,0.12649 -0.873362,0.12649 -1.150658,0 -1.766976,-0.63245 -1.766976,-1.60766 0,-0.98336 0.714227,-1.65254 1.697582,-1.65254 1.024194,0 1.566697,0.61205 1.566697,1.36284 0,0.63653 -0.199784,1.12209 -0.828147,1.12209 -0.285797,0 -0.473302,-0.11424 -0.497779,-0.3674 -0.07347,0.28155 -0.269326,0.3674 -0.534726,0.3674 -0.354993,0 -0.652839,-0.27355 -0.652839,-0.82422 0,-0.55493 0.261321,-0.89768 0.730544,-0.89768 0.24889,0 0.40395,0.0979 0.472997,0.25298 l 0.118499,-0.21626 h 0.342754 v 1.19979 h 0 z m -0.501745,-0.5386 c 0,-0.22425 -0.167451,-0.31827 -0.306194,-0.31827 -0.15094,0 -0.318089,0.12224 -0.318089,0.48148 0,0.28562 0.126505,0.44475 0.318089,0.44475 0.134664,0 0.306194,-0.0857 0.306194,-0.32234 v -0.28562 z"
+       d="m 62.067428,621.96024 c 0,0.14282 0.04061,0.19977 0.146866,0.19977 0.23684,0 0.387632,-0.30177 0.387632,-0.80366 0,-0.76711 -0.55901,-1.13434 -1.256919,-1.13434 -0.717959,0 -1.370992,0.48148 -1.370992,1.3914 0,0.86912 0.571252,1.34244 1.448544,1.34244 0.297842,0 0.497779,-0.0326 0.803631,-0.13466 l 0.06565,0.27322 c -0.301962,0.0981 -0.624626,0.12649 -0.873362,0.12649 -1.150658,0 -1.766976,-0.63245 -1.766976,-1.60766 0,-0.98336 0.714227,-1.65254 1.697582,-1.65254 1.024194,0 1.566697,0.61205 1.566697,1.36284 0,0.63653 -0.199784,1.12209 -0.828147,1.12209 -0.285797,0 -0.473302,-0.11424 -0.497779,-0.3674 -0.07347,0.28155 -0.269326,0.3674 -0.534726,0.3674 -0.354993,0 -0.652839,-0.27355 -0.652839,-0.82422 0,-0.55493 0.261321,-0.89768 0.730544,-0.89768 0.24889,0 0.40395,0.0979 0.472997,0.25298 l 0.118499,-0.21626 h 0.342754 v 1.19979 h 0 z m -0.501745,-0.5386 c 0,-0.22425 -0.167451,-0.31827 -0.306194,-0.31827 -0.15094,0 -0.318089,0.12224 -0.318089,0.48148 0,0.28562 0.126505,0.44475 0.318089,0.44475 0.134664,0 0.306194,-0.0857 0.306194,-0.32234 v -0.28562 z"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        id="path3071-0-3"
-       d="m 29.730384,621.60661 c 0.140534,0.0755 2.087427,1.12148 2.16002,1.16036 0.07255,0.0389 0.16646,0.0573 0.260899,0.0573 0.09448,0 0.188383,-0.0184 0.260938,-0.0573 0.07259,-0.0389 2.019486,-1.08491 2.16002,-1.16036 0.14084,-0.0757 0.273901,-0.37037 0.01563,-0.37037 h -4.872723 c -0.258307,0 -0.125283,0.29462 0.01525,0.37037 z m 4.907264,0.63447 c -0.159864,0.0832 -2.127498,1.10852 -2.225407,1.15978 -0.09791,0.0513 -0.16646,0.0573 -0.260938,0.0573 -0.09444,0 -0.162991,-0.006 -0.260899,-0.0573 -0.09795,-0.0513 -2.054334,-1.07684 -2.21416,-1.16007 -0.112321,-0.0588 -0.111177,0.0101 -0.111177,0.0631 0,0.053 0,2.1004 0,2.1004 0,0.12096 0.162991,0.288 0.288008,0.288 h 4.608009 c 0.124979,0 0.288008,-0.16704 0.288008,-0.288 0,0 0,-2.04712 0,-2.10011 0,-0.053 0,-0.12183 -0.111444,-0.0631 z"
+       d="m 29.730384,620.17803 c 0.140534,0.0755 2.087427,1.12148 2.16002,1.16036 0.07255,0.0389 0.16646,0.0573 0.260899,0.0573 0.09448,0 0.188383,-0.0184 0.260938,-0.0573 0.07259,-0.0389 2.019486,-1.08491 2.16002,-1.16036 0.14084,-0.0757 0.273901,-0.37037 0.01563,-0.37037 h -4.872723 c -0.258307,0 -0.125283,0.29462 0.01525,0.37037 z m 4.907264,0.63447 c -0.159864,0.0832 -2.127498,1.10852 -2.225407,1.15978 -0.09791,0.0513 -0.16646,0.0573 -0.260938,0.0573 -0.09444,0 -0.162991,-0.006 -0.260899,-0.0573 -0.09795,-0.0513 -2.054334,-1.07684 -2.21416,-1.16007 -0.112321,-0.0588 -0.111177,0.0101 -0.111177,0.0631 0,0.053 0,2.1004 0,2.1004 0,0.12096 0.162991,0.288 0.288008,0.288 h 4.608009 c 0.124979,0 0.288008,-0.16704 0.288008,-0.288 0,0 0,-2.04712 0,-2.10011 0,-0.053 0,-0.12183 -0.111444,-0.0631 z"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        id="path3051-1-6-6"
-       d="m 32.511599,629.36569 c -0.455917,0.45562 -0.984122,0.89166 -1.192903,0.68285 -0.298683,-0.29865 -0.482986,-0.55901 -1.141927,-0.0293 -0.658674,0.52934 -0.152659,0.88243 0.136798,1.17159 0.334065,0.33408 1.579391,0.0178 2.810306,-1.21278 1.230648,-1.23092 1.545992,-2.47624 1.211623,-2.81032 -0.289419,-0.28973 -0.640793,-0.79546 -1.170142,-0.1368 -0.529615,0.65866 -0.269554,0.84298 0.02974,1.14193 0.207942,0.2088 -0.227806,0.73699 -0.683418,1.1929 z"
+       d="m 32.511599,627.93711 c -0.455917,0.45562 -0.984122,0.89166 -1.192903,0.68285 -0.298683,-0.29865 -0.482986,-0.55901 -1.141927,-0.0293 -0.658674,0.52934 -0.152659,0.88243 0.136798,1.17159 0.334065,0.33408 1.579391,0.0178 2.810306,-1.21278 1.230648,-1.23092 1.545992,-2.47624 1.211623,-2.81032 -0.289419,-0.28973 -0.640793,-0.79546 -1.170142,-0.1368 -0.529615,0.65866 -0.269554,0.84298 0.02974,1.14193 0.207942,0.2088 -0.227806,0.73699 -0.683418,1.1929 z"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        id="path3081-1-3-0"
-       d="m 30.795258,634.08565 c 0.05761,0 0.113502,0.008 0.165926,0.0248 0.198716,-0.22262 0.41901,-0.42537 0.657492,-0.6048 -0.0099,-0.0421 -0.01563,-0.0861 -0.01563,-0.13104 0,-0.0625 0.01029,-0.12269 0.02936,-0.17885 -0.267572,-0.19123 -0.557867,-0.35222 -0.867188,-0.47635 -0.289456,0.17885 -0.542007,0.41212 -0.74362,0.68573 0.149456,0.26496 0.327164,0.51178 0.529349,0.73642 0.07374,-0.0357 0.156395,-0.0559 0.2442,-0.0559 z m -0.563892,0.56362 c 0,-0.0792 0.01678,-0.15466 0.04579,-0.22263 -0.180872,-0.19929 -0.34474,-0.41357 -0.488172,-0.64196 -0.179995,0.35771 -0.282212,0.76177 -0.282212,1.18974 0,0.49508 0.136493,0.95847 0.372953,1.35505 0.08468,-0.47636 0.245078,-0.92708 0.466555,-1.33978 -0.07198,-0.0945 -0.114914,-0.21284 -0.114914,-0.34042 z m 1.935379,-1.83831 c 0.148884,0 0.283661,0.0579 0.384773,0.15235 0.294031,-0.12644 0.603657,-0.22378 0.925902,-0.2857 -0.389081,-0.22435 -0.84008,-0.35309 -1.321046,-0.35309 -0.32804,0 -0.641974,0.0602 -0.931964,0.16934 0.230093,0.11376 0.449549,0.24624 0.655776,0.396 0.08411,-0.0501 0.181711,-0.0789 0.286559,-0.0789 z m 0.842672,2.65508 c 0.03508,-0.0731 0.08498,-0.13795 0.146596,-0.18893 -0.16646,-0.51178 -0.429991,-0.98036 -0.769545,-1.38327 -0.06737,0.0288 -0.141678,0.0444 -0.220028,0.0444 -0.122386,0 -0.235012,-0.0394 -0.327431,-0.10512 -0.20451,0.15523 -0.393694,0.32919 -0.565645,0.51927 0.05414,0.0861 0.08552,0.18778 0.08552,0.29693 0,0.0585 -0.0088,0.1152 -0.02593,0.16877 0.494463,0.33004 1.063845,0.55699 1.676423,0.648 z m 0.731267,0.76119 c 0.0076,0.10685 0.01182,0.21427 0.01182,0.32285 0,0.19123 -0.0122,0.37959 -0.03507,0.56477 0.449283,-0.32803 0.79143,-0.79431 0.963915,-1.33604 -0.204473,0.0495 -0.414131,0.085 -0.628097,0.10512 -0.04983,0.15466 -0.164744,0.27908 -0.312485,0.3433 z m -0.863146,-0.38218 c -0.654366,-0.10858 -1.260578,-0.35827 -1.788516,-0.71539 -0.08582,0.0524 -0.186324,0.0832 -0.294031,0.0832 -0.04003,0 -0.07835,-0.004 -0.115791,-0.0118 -0.25255,0.47866 -0.41413,1.01291 -0.460492,1.57941 0.252283,0.27072 0.55985,0.48874 0.905772,0.63504 0.429686,-0.66038 1.029874,-1.20644 1.753058,-1.57047 z m 1.057515,-2.8348 c -0.424768,0.0412 -0.830281,0.14803 -1.207582,0.30759 0.0038,0.019 0.0038,0.0377 0.0038,0.0567 0,0.089 -0.02135,0.1728 -0.05792,0.24739 0.377605,0.44323 0.670188,0.95904 0.855102,1.52381 0.229521,0.005 0.425377,0.14458 0.509751,0.34416 0.255181,-0.0259 0.503423,-0.0749 0.742476,-0.14515 0.01716,-0.12096 0.02669,-0.2448 0.02669,-0.37065 0,-0.77876 -0.336085,-1.47918 -0.871229,-1.96389 z m -0.773854,3.13576 c -0.675068,0.31623 -1.239532,0.80324 -1.64821,1.39854 0.205922,0.0516 0.421337,0.0792 0.643385,0.0792 0.399452,0 0.778163,-0.089 1.118022,-0.24739 0.05471,-0.26727 0.08354,-0.54346 0.08354,-0.82628 0,-0.10224 -0.0046,-0.20362 -0.01258,-0.30384 -0.06798,-0.0219 -0.130468,-0.0556 -0.184341,-0.10023 z"
+       d="m 30.795258,632.65707 c 0.05761,0 0.113502,0.008 0.165926,0.0248 0.198716,-0.22262 0.41901,-0.42537 0.657492,-0.6048 -0.0099,-0.0421 -0.01563,-0.0861 -0.01563,-0.13104 0,-0.0625 0.01029,-0.12269 0.02936,-0.17885 -0.267572,-0.19123 -0.557867,-0.35222 -0.867188,-0.47635 -0.289456,0.17885 -0.542007,0.41212 -0.74362,0.68573 0.149456,0.26496 0.327164,0.51178 0.529349,0.73642 0.07374,-0.0357 0.156395,-0.0559 0.2442,-0.0559 z m -0.563892,0.56362 c 0,-0.0792 0.01678,-0.15466 0.04579,-0.22263 -0.180872,-0.19929 -0.34474,-0.41357 -0.488172,-0.64196 -0.179995,0.35771 -0.282212,0.76177 -0.282212,1.18974 0,0.49508 0.136493,0.95847 0.372953,1.35505 0.08468,-0.47636 0.245078,-0.92708 0.466555,-1.33978 -0.07198,-0.0945 -0.114914,-0.21284 -0.114914,-0.34042 z m 1.935379,-1.83831 c 0.148884,0 0.283661,0.0579 0.384773,0.15235 0.294031,-0.12644 0.603657,-0.22378 0.925902,-0.2857 -0.389081,-0.22435 -0.84008,-0.35309 -1.321046,-0.35309 -0.32804,0 -0.641974,0.0602 -0.931964,0.16934 0.230093,0.11376 0.449549,0.24624 0.655776,0.396 0.08411,-0.0501 0.181711,-0.0789 0.286559,-0.0789 z m 0.842672,2.65508 c 0.03508,-0.0731 0.08498,-0.13795 0.146596,-0.18893 -0.16646,-0.51178 -0.429991,-0.98036 -0.769545,-1.38327 -0.06737,0.0288 -0.141678,0.0444 -0.220028,0.0444 -0.122386,0 -0.235012,-0.0394 -0.327431,-0.10512 -0.20451,0.15523 -0.393694,0.32919 -0.565645,0.51927 0.05414,0.0861 0.08552,0.18778 0.08552,0.29693 0,0.0585 -0.0088,0.1152 -0.02593,0.16877 0.494463,0.33004 1.063845,0.55699 1.676423,0.648 z m 0.731267,0.76119 c 0.0076,0.10685 0.01182,0.21427 0.01182,0.32285 0,0.19123 -0.0122,0.37959 -0.03507,0.56477 0.449283,-0.32803 0.79143,-0.79431 0.963915,-1.33604 -0.204473,0.0495 -0.414131,0.085 -0.628097,0.10512 -0.04983,0.15466 -0.164744,0.27908 -0.312485,0.3433 z m -0.863146,-0.38218 c -0.654366,-0.10858 -1.260578,-0.35827 -1.788516,-0.71539 -0.08582,0.0524 -0.186324,0.0832 -0.294031,0.0832 -0.04003,0 -0.07835,-0.004 -0.115791,-0.0118 -0.25255,0.47866 -0.41413,1.01291 -0.460492,1.57941 0.252283,0.27072 0.55985,0.48874 0.905772,0.63504 0.429686,-0.66038 1.029874,-1.20644 1.753058,-1.57047 z m 1.057515,-2.8348 c -0.424768,0.0412 -0.830281,0.14803 -1.207582,0.30759 0.0038,0.019 0.0038,0.0377 0.0038,0.0567 0,0.089 -0.02135,0.1728 -0.05792,0.24739 0.377605,0.44323 0.670188,0.95904 0.855102,1.52381 0.229521,0.005 0.425377,0.14458 0.509751,0.34416 0.255181,-0.0259 0.503423,-0.0749 0.742476,-0.14515 0.01716,-0.12096 0.02669,-0.2448 0.02669,-0.37065 0,-0.77876 -0.336085,-1.47918 -0.871229,-1.96389 z m -0.773854,3.13576 c -0.675068,0.31623 -1.239532,0.80324 -1.64821,1.39854 0.205922,0.0516 0.421337,0.0792 0.643385,0.0792 0.399452,0 0.778163,-0.089 1.118022,-0.24739 0.05471,-0.26727 0.08354,-0.54346 0.08354,-0.82628 0,-0.10224 -0.0046,-0.20362 -0.01258,-0.30384 -0.06798,-0.0219 -0.130468,-0.0556 -0.184341,-0.10023 z"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
@@ -426,7 +426,7 @@
        xml:space="preserve"
        style="font-size:3.98643351px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="37.29847"
-       y="630.78552"
+       y="629.35693"
        id="text3870-0-2-3-3-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -434,14 +434,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="37.29847"
-         y="630.78552"
+         y="629.35693"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
          id="tspan3891-7-7-5-6-1">+11 444 555 22 33</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.98643351px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="37.307407"
-       y="624.28314"
+       y="622.85455"
        id="text3870-0-2-3-3-1-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -449,14 +449,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="37.307407"
-         y="624.28314"
+         y="622.85455"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
          id="tspan3891-7-7-5-6-8-3">johnsmith</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.98643351px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="37.29847"
-       y="636.7771"
+       y="635.34851"
        id="text3870-0-2-3-3-7-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -464,14 +464,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="37.29847"
-         y="636.7771"
+         y="635.34851"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
          id="tspan3891-7-7-5-6-0-3">www.business.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.98643351px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="63.392426"
-       y="624.40009"
+       y="622.9715"
        id="text3870-0-2-3-3-1-0-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -479,28 +479,28 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="63.392426"
-         y="624.40009"
+         y="622.9715"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
          id="tspan3891-7-7-5-6-8-6-2">business.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="43.920403"
-       y="671.98401"
+       y="670.55542"
        id="text3517-2"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="43.920403"
-         y="671.98401"
+         y="670.55542"
          style="font-size:5.85335827px"
          id="tspan3525-83">Imagination is more important than knowledge.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="43.920403"
-       y="680.86151"
+       y="679.43292"
        id="text3517-4-3-4-35"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -508,14 +508,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="43.920403"
-         y="680.86151"
+         y="679.43292"
          style="font-size:5.85335827px;font-style:italic;fill:#808080;-inkscape-font-specification:Trebuchet MS Italic"
          id="tspan3525-8-0-4-0">Albert Einstein</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.36012983px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="44.493095"
-       y="699.6828"
+       y="698.25421"
        id="text2996-6-5-7-1-9-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -524,7 +524,7 @@
          sodipodi:role="line"
          id="tspan2998-5-5-5-2-7-3"
          x="44.493095"
-         y="699.6828"
+         y="698.25421"
          style="font-size:6.75387478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">EDUCATION</tspan></text>
     <rect
        style="fill:#ed3857;fill-opacity:1;stroke:none"
@@ -532,7 +532,7 @@
        width="12.516754"
        height="2.6561916"
        x="29.465275"
-       y="696.01971"
+       y="694.59113"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -540,7 +540,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.331566"
-       y="729.71423"
+       y="728.28564"
        id="text3517-1-03"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -548,28 +548,28 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.331566"
-         y="729.71423"
+         y="728.28564"
          style="font-size:5.85335827px;font-weight:bold;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan3525-7-28">University of Camebridge</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="53.880634"
-       y="729.71423"
+       y="728.28564"
        id="text3517-4-5-11"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="53.880634"
-         y="729.71423"
+         y="728.28564"
          style="font-size:4.95284176px"
          id="tspan3525-8-4-2">Oct 05 - Sep 09</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.282806"
-       y="736.80939"
+       y="735.3808"
        id="text3517-4-3-4-3-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -577,14 +577,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.282806"
-         y="736.80939"
+         y="735.3808"
          style="font-size:4.95284176px"
          id="tspan3525-8-0-4-2-8">Bachelor of Arts, Electrical Engineering</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.225731"
-       y="749.53247"
+       y="748.10388"
        id="text3517-1-9-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -592,14 +592,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.225731"
-         y="749.53247"
+         y="748.10388"
          style="font-size:5.85335827px;font-weight:bold;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan3525-7-5-1">Mill Hill School London</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="53.612942"
-       y="749.46185"
+       y="748.03326"
        id="text3517-4-5-1-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -607,14 +607,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="53.612942"
-         y="749.46185"
+         y="748.03326"
          style="font-size:4.95284176px"
          id="tspan3525-8-4-1-7">Sep 95 - Juli 04</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.225731"
-       y="757.52808"
+       y="756.09949"
        id="text3517-4-3-4-3-2-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -622,14 +622,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.225731"
-         y="757.52808"
+         y="756.09949"
          style="font-size:4.95284176px"
          id="tspan3525-8-0-4-2-1-0">A Level</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.225731"
-       y="709.84839"
+       y="708.4198"
        id="text3517-1-0-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -637,28 +637,28 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.225731"
-         y="709.84839"
+         y="708.4198"
          style="font-size:5.85335827px;font-weight:bold;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan3525-7-6-9">University of Edingburgh</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="53.579239"
-       y="709.84839"
+       y="708.4198"
        id="text3517-4-5-0-40"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="53.579239"
-         y="709.84839"
+         y="708.4198"
          style="font-size:4.95284176px"
          id="tspan3525-8-4-5-55">Oct 09 - Feb 10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.225731"
-       y="716.94354"
+       y="715.51495"
        id="text3517-4-3-4-3-7-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -666,14 +666,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.225731"
-         y="716.94354"
+         y="715.51495"
          style="font-size:4.95284176px"
          id="tspan3525-8-0-4-2-9-5">Master of Engineering</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.36012983px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="44.493095"
-       y="777.08606"
+       y="775.65747"
        id="text2996-6-5-7-1-9-1-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -682,7 +682,7 @@
          sodipodi:role="line"
          id="tspan2998-5-5-5-2-7-1-9"
          x="44.493095"
-         y="777.08606"
+         y="775.65747"
          style="font-size:6.75387478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">EXPERIENCE</tspan></text>
     <rect
        style="fill:#ed3857;fill-opacity:1;stroke:none"
@@ -690,7 +690,7 @@
        width="12.516754"
        height="2.6561916"
        x="29.465275"
-       y="773.42291"
+       y="771.99432"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -698,7 +698,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.532555"
-       y="787.30609"
+       y="785.8775"
        id="text3517-1-2-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -706,7 +706,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.532555"
-         y="787.30609"
+         y="785.8775"
          style="font-size:5.85335827px;font-weight:bold;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan3525-7-2-4">Application Engineer, <tspan
    style="font-style:italic;font-weight:normal"
@@ -717,21 +717,21 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="48.254639"
-       y="787.30609"
+       y="785.8775"
        id="text3517-4-5-01-0"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="48.254639"
-         y="787.30609"
+         y="785.8775"
          style="font-size:4.95284176px"
          id="tspan3525-8-4-13-7">Okt. 12 - Sept. 14</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.282806"
-       y="794.40125"
+       y="792.97266"
        id="text3517-4-3-4-3-9-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -739,14 +739,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.282806"
-         y="794.40125"
+         y="792.97266"
          style="font-size:4.95284176px"
          id="tspan6461">Hardware development of wearable ECG devices</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.450989"
-       y="833.23932"
+       y="831.81073"
        id="text3517-1-9-8-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -754,7 +754,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.450989"
-         y="833.23932"
+         y="831.81073"
          style="font-size:5.85335827px;font-weight:bold;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan3525-7-5-7-1">Masters Thesis, <tspan
    style="font-style:italic;font-weight:normal"
@@ -765,7 +765,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="49.964859"
-       y="833.12555"
+       y="831.69696"
        id="text3517-4-5-1-2-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -773,14 +773,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="49.964859"
-         y="833.12555"
+         y="831.69696"
          style="font-size:4.95284176px"
          id="tspan3525-8-4-1-6-5">Sept. 05 - Juli 10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="94.973793"
-       y="840.33441"
+       y="838.90582"
        id="text3517-4-3-4-3-2-3-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -788,14 +788,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="94.973793"
-         y="840.33441"
+         y="838.90582"
          style="font-size:4.95284176px"
          id="tspan3525-8-0-4-2-1-2-3">FPGA based system design for a radar signal processing system</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.282806"
-       y="813.36664"
+       y="811.93805"
        id="text3517-1-0-2-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -803,7 +803,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.282806"
-         y="813.36664"
+         y="811.93805"
          style="font-size:5.85335827px;font-weight:bold;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan3525-7-6-2-8">Wissenschaftlicher Mitarbeiter, <tspan
    style="font-style:italic;font-weight:normal"
@@ -814,7 +814,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="48.213985"
-       y="813.36664"
+       y="811.93805"
        id="text3517-4-5-0-4-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -822,14 +822,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="48.213985"
-         y="813.36664"
+         y="811.93805"
          style="font-size:4.95284176px"
          id="tspan3525-8-4-5-5-5">Okt. 05 - Sept. 12</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="95.033051"
-       y="820.46173"
+       y="819.03314"
        id="text3517-4-3-4-3-7-6-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -837,14 +837,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="95.033051"
-         y="820.46173"
+         y="819.03314"
          style="font-size:4.95284176px"
          id="tspan3525-8-0-4-2-9-3-9">Programming multicore architecture for image processing</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.36012983px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="44.493095"
-       y="863.24622"
+       y="861.81763"
        id="text2996-6-5-7-1-9-1-4-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -853,7 +853,7 @@
          sodipodi:role="line"
          id="tspan2998-5-5-5-2-7-1-2-1"
          x="44.493095"
-         y="863.24622"
+         y="861.81763"
          style="font-size:6.75387478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">Languages </tspan></text>
     <rect
        style="fill:#ed3857;fill-opacity:1;stroke:none"
@@ -861,7 +861,7 @@
        width="12.516754"
        height="2.6561916"
        x="29.465275"
-       y="859.58307"
+       y="858.15448"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -878,25 +878,25 @@
          id="flowPara4338" /></flowRoot>    <text
        id="text3966-4-2"
        x="92.195641"
-       y="618.68658"
+       y="617.258"
        style="font-size:5.72057915px;fill:#000000;fill-opacity:1">
       <tspan
          style="font-size:4.74808121px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
          x="92.195641"
-         y="618.68658"
+         y="617.258"
          id="tspan3968-8-7">•</tspan>
     </text>
     <text
        xml:space="preserve"
        style="font-size:4.19391727px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="96.428574"
-       y="618.4834"
+       y="617.05481"
        id="text5591"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5593"
          x="96.428574"
-         y="618.4834"
+         y="617.05481"
          style="font-size:4.95284176px">Ipsum City</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -912,7 +912,7 @@
        xml:space="preserve"
        style="font-size:6.36012983px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="44.595787"
-       y="899.54065"
+       y="898.11206"
        id="text2996-6-5-7-1-9-1-4-6-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -921,7 +921,7 @@
          sodipodi:role="line"
          id="tspan2998-5-5-5-2-7-1-2-1-2"
          x="44.595787"
-         y="899.54065"
+         y="898.11206"
          style="font-size:6.75387478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">SKILLS</tspan></text>
     <rect
        style="fill:#ed3857;fill-opacity:1;stroke:none"
@@ -929,7 +929,7 @@
        width="12.516754"
        height="2.6561916"
        x="29.567965"
-       y="895.8775"
+       y="894.44891"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -937,7 +937,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="86.244682"
-       y="909.94928"
+       y="908.52069"
        id="text3517-4-3-4-3-9-8-8-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -945,14 +945,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="86.244682"
-         y="909.94928"
+         y="908.52069"
          style="font-size:4.95284176px"
          id="tspan6449-6">Python</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="86.266853"
-       y="917.23718"
+       y="915.80859"
        id="text3517-4-3-4-3-9-8-8-0-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -960,14 +960,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="86.266853"
-         y="917.23718"
+         y="915.80859"
          style="font-size:4.95284176px"
          id="tspan6449-6-4">C#, Assembler</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="86.227432"
-       y="924.46722"
+       y="923.03864"
        id="text3517-4-3-4-3-9-8-8-0-4-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -975,14 +975,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="86.227432"
-         y="924.46722"
+         y="923.03864"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
          id="tspan7614">C/C++, VHDL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="162.53271"
-       y="909.14716"
+       y="907.71857"
        id="text3517-4-3-4-3-9-8-8-0-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -990,14 +990,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="162.53271"
-         y="909.14716"
+         y="907.71857"
          style="font-size:4.95284176px"
          id="tspan6449-6-15">Solid Works, EAGLE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="162.55489"
-       y="916.435"
+       y="915.00641"
        id="text3517-4-3-4-3-9-8-8-0-4-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -1005,14 +1005,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="162.55489"
-         y="916.435"
+         y="915.00641"
          style="font-size:4.95284176px"
          id="tspan6449-6-4-9">MATLAB</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="162.51546"
-       y="923.66504"
+       y="922.23645"
        id="text3517-4-3-4-3-9-8-8-0-4-5-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -1020,7 +1020,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="162.51546"
-         y="923.66504"
+         y="922.23645"
          style="font-size:4.95284176px"
          id="tspan7528-6">HTML5, CSS3</tspan></text>
     <text
@@ -1029,13 +1029,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-4-0"
-       y="931.29352"
+       y="929.86493"
        x="85.886627"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan6449-6-4-1"
          style="font-size:4.95284176px"
-         y="931.29352"
+         y="929.86493"
          x="85.886627"
          sodipodi:role="line">ROS</tspan></text>
     <text
@@ -1044,13 +1044,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-4-2-3"
-       y="930.49133"
+       y="929.06274"
        x="162.17467"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan6449-6-4-9-4"
          style="font-size:4.95284176px"
-         y="930.49133"
+         y="929.06274"
          x="162.17467"
          sodipodi:role="line">Linux</tspan></text>
     <flowRoot
@@ -1069,13 +1069,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-1-2"
-       y="909.133"
+       y="907.70441"
        x="254.79709"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan6449-6-15-4"
          style="font-size:4.95284176px"
-         y="909.133"
+         y="907.70441"
          x="254.79709"
          sodipodi:role="line">Neural Networks</tspan></text>
     <text
@@ -1084,13 +1084,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-4-2-8"
-       y="916.4209"
+       y="914.99231"
        x="254.81927"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan6449-6-4-9-41"
          style="font-size:4.95284176px"
-         y="916.4209"
+         y="914.99231"
          x="254.81927"
          sodipodi:role="line">Kalman-Filter</tspan></text>
     <text
@@ -1099,13 +1099,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-4-5-4-0"
-       y="923.65094"
+       y="922.22235"
        x="254.77983"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan7528-6-9"
          style="font-size:4.95284176px"
-         y="923.65094"
+         y="922.22235"
          x="254.77983"
          sodipodi:role="line">Fuzzy Logic</tspan></text>
     <flowRoot
@@ -1123,7 +1123,7 @@
        xml:space="preserve"
        style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="64.783829"
-       y="873.56903"
+       y="872.14044"
        id="text3517-4-3-4-3-9-8-8-0-4-5-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -1131,7 +1131,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="64.783829"
-         y="873.56903"
+         y="872.14044"
          style="font-size:4.95284176px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
          id="tspan7614-3"><tspan
            style="font-weight:normal"
@@ -1142,7 +1142,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="141.07187"
-       y="873.66736"
+       y="872.23877"
        id="text3517-4-3-4-3-9-8-8-0-4-5-4-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -1150,7 +1150,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="141.07187"
-         y="873.66736"
+         y="872.23877"
          style="font-size:4.95284176px;font-weight:bold"
          id="tspan7528-6-8"><tspan
            style="font-weight:normal"
@@ -1163,13 +1163,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-4-0-0"
-       y="880.39539"
+       y="878.9668"
        x="64.443024"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan6449-6-4-1-3"
          style="font-size:4.95284176px;font-weight:bold"
-         y="880.39539"
+         y="878.9668"
          x="64.443024"
          sodipodi:role="line">französisch<tspan
    style="font-weight:normal"
@@ -1180,13 +1180,13 @@
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        sodipodi:linespacing="125%"
        id="text3517-4-3-4-3-9-8-8-0-4-2-3-4"
-       y="880.49371"
+       y="879.06512"
        x="140.73106"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        xml:space="preserve"><tspan
          id="tspan6449-6-4-9-4-3"
          style="font-size:4.95284176px;font-weight:bold"
-         y="880.49371"
+         y="879.06512"
          x="140.73106"
          sodipodi:role="line"><tspan
            style="font-weight:normal"
@@ -1197,7 +1197,7 @@
        xml:space="preserve"
        style="font-size:6.36012983px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="44.595787"
-       y="949.81335"
+       y="948.38477"
        id="text2996-6-5-7-1-9-1-4-6-9-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -1206,7 +1206,7 @@
          sodipodi:role="line"
          id="tspan2998-5-5-5-2-7-1-2-1-2-8"
          x="44.595787"
-         y="949.81335"
+         y="948.38477"
          style="font-size:6.75387478px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">INTERESTS</tspan></text>
     <rect
        style="fill:#ed3857;fill-opacity:1;stroke:none"
@@ -1214,7 +1214,7 @@
        width="12.516754"
        height="2.6561916"
        x="29.567965"
-       y="946.15027"
+       y="944.72168"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1222,7 +1222,7 @@
        xml:space="preserve"
        style="font-size:18.01033401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
        x="64.90934"
-       y="958.65411"
+       y="957.22552"
        id="text3517-4-3-4-3-9-8-8-0-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/usappz/website/CurriculumVitae/inspiration/text3517-4-5-01-5.png"
@@ -1230,7 +1230,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="64.90934"
-         y="958.65411"
+         y="957.22552"
          style="font-size:5.85335827px"
          id="tspan6449-6-3">fotography, biking, trekking, poetry</tspan></text>
     <flowRoot
@@ -1245,7 +1245,7 @@
            y="-1307.3541" /></flowRegion><flowPara
          id="flowPara10398" /></flowRoot>    <g
        id="g10469"
-       transform="matrix(0.41452354,0,0,0.41452354,23.713613,573.84255)">
+       transform="matrix(0.41452354,0,0,0.41452354,23.713613,572.41397)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1274,7 +1274,7 @@
     </g>
     <g
        id="g9393"
-       transform="matrix(0.27783309,0,0,0.27783309,25.838693,676.62215)">
+       transform="matrix(0.27783309,0,0,0.27783309,25.838693,675.19357)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,34.635044)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1318,7 +1318,7 @@
     </g>
     <g
        id="g9399"
-       transform="matrix(0.27783309,0,0,0.27783309,25.838693,679.3374)">
+       transform="matrix(0.27783309,0,0,0.27783309,25.838693,677.90882)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,50.385052)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1362,7 +1362,7 @@
     </g>
     <g
        id="g9405"
-       transform="matrix(0.27783309,0,0,0.27783309,25.838693,682.06633)">
+       transform="matrix(0.27783309,0,0,0.27783309,25.838693,680.63775)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,66.027909)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1406,7 +1406,7 @@
     </g>
     <g
        style="stroke:#ed3857;stroke-opacity:1"
-       transform="matrix(0.27783309,0,0,0.27783309,38.988357,697.30052)"
+       transform="matrix(0.27783309,0,0,0.27783309,38.988357,695.87194)"
        id="g8153-8-3">
       <path
          sodipodi:type="arc"
@@ -1451,7 +1451,7 @@
     </g>
     <g
        id="g9393-4"
-       transform="matrix(0.27783309,0,0,0.27783309,101.42437,676.60745)">
+       transform="matrix(0.27783309,0,0,0.27783309,101.42437,675.17887)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,34.635044)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1495,7 +1495,7 @@
     </g>
     <g
        id="g9399-8"
-       transform="matrix(0.27783309,0,0,0.27783309,101.42437,679.3227)">
+       transform="matrix(0.27783309,0,0,0.27783309,101.42437,677.89412)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,50.385052)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1539,7 +1539,7 @@
     </g>
     <g
        id="g9405-3"
-       transform="matrix(0.27783309,0,0,0.27783309,101.42437,682.05163)">
+       transform="matrix(0.27783309,0,0,0.27783309,101.42437,680.62305)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,66.027909)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1583,7 +1583,7 @@
     </g>
     <g
        style="stroke:#ed3857;stroke-opacity:1"
-       transform="matrix(0.27783309,0,0,0.27783309,114.57405,697.28582)"
+       transform="matrix(0.27783309,0,0,0.27783309,114.57405,695.85724)"
        id="g8153-8-3-6">
       <path
          sodipodi:type="arc"
@@ -1628,7 +1628,7 @@
     </g>
     <g
        id="g9393-4-5"
-       transform="matrix(0.27783309,0,0,0.27783309,194.2987,676.48761)">
+       transform="matrix(0.27783309,0,0,0.27783309,194.2987,675.05903)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,34.635044)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1672,7 +1672,7 @@
     </g>
     <g
        id="g9399-8-5"
-       transform="matrix(0.27783309,0,0,0.27783309,194.2987,679.20286)">
+       transform="matrix(0.27783309,0,0,0.27783309,194.2987,677.77428)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,50.385052)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
@@ -1716,7 +1716,7 @@
     </g>
     <g
        id="g9405-3-1"
-       transform="matrix(0.27783309,0,0,0.27783309,194.2987,681.93179)">
+       transform="matrix(0.27783309,0,0,0.27783309,194.2987,680.50321)">
       <path
          transform="matrix(0.80453757,0,0,0.85482111,-45.096524,66.027909)"
          d="m 243.57143,936.29077 c 0,3.15591 -2.71827,5.71429 -6.07143,5.71429 -3.35316,0 -6.07143,-2.55838 -6.07143,-5.71429 0,-3.15591 2.71827,-5.71428 6.07143,-5.71428 3.35316,0 6.07143,2.55837 6.07143,5.71428 z"
