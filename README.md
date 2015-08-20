@@ -16,6 +16,10 @@ I am not an expert in these things, so I used Trebuchet MS font. It is popular a
 
 Thanks and all credits to Daniel Bruce for the beautiful pictograms. All of them (except countX.svg) have been taken from Daniels website — www.entypo.com.
 
+## License
+
+The work is licensed under Creative Commons. You are free to use the templates, also for commersial use. A mention like “Resume Template by Andreas Gschossmann — www.ticktronaut.de” is considered acceptable attribution. You can place this in the footer of your website, on an about page or in the code if you don’t wanna give it to much attention.
+
 ## TODO
 
  - [ ] add colors (blue.css, red.css, orange.css, green.css)
