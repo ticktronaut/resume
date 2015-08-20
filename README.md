@@ -1,12 +1,12 @@
 # Resume
 
-Since I was bored from my old resume I designed a new one. One version I designed in HTML5 and CSS3. To make it as stable as possible I do not use any scripts. A further version I designed in SVG (using inkscape). This one has been converted to pdf.
+Since I was bored of my old resume I designed a new one. One version I designed in HTML5 and CSS3. To make it as stable as possible I do not use any scripts. A further version I designed in SVG (using inkscape). This one has been converted to pdf.
 
 ![resume](images/cv.png)
 
 ## Colors
 
-At the moment the red version is available only. But different colors are planned.
+At the moment the red version is available only. However, different colors will be coming soon.
 
 ## Typography 
 
