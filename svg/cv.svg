@@ -50,17 +50,17 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="448.24536"
-     inkscape:cy="316.645"
+     inkscape:cy="830.93071"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="718"
+     inkscape:window-width="1438"
      inkscape:window-height="879"
      inkscape:window-x="0"
      inkscape:window-y="19"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true">
     <sodipodi:guide
@@ -232,7 +232,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -526,7 +526,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="114.90687"
+       x="188.97961"
        y="349.07581"
        id="text3517-4-5-11"
        sodipodi:linespacing="125%"
@@ -535,7 +535,7 @@
          sodipodi:role="line"
          x="114.90687"
          y="349.07581"
-         style="font-size:11px"
+         style="font-size:11px;text-anchor:end;text-align:end"
          id="tspan3525-8-4-2">Oct 05 - Sep 09</tspan></text>
     <text
        xml:space="preserve"
@@ -570,7 +570,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="114.31234"
+       x="189.06723"
        y="392.93414"
        id="text3517-4-5-1-3"
        sodipodi:linespacing="125%"
@@ -580,7 +580,7 @@
          sodipodi:role="line"
          x="114.31234"
          y="392.93414"
-         style="font-size:11px"
+         style="font-size:11px;text-anchor:end;text-align:end"
          id="tspan3525-8-4-1-7">Sep 95 - Juli 04</tspan></text>
     <text
        xml:space="preserve"
@@ -615,7 +615,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="114.23748"
+       x="188.987"
        y="304.9548"
        id="text3517-4-5-0-40"
        sodipodi:linespacing="125%"
@@ -624,7 +624,7 @@
          sodipodi:role="line"
          x="114.23748"
          y="304.9548"
-         style="font-size:11px"
+         style="font-size:11px;text-anchor:end;text-align:end"
          id="tspan3525-8-4-5-55">Oct 09 - Feb 10</tspan></text>
     <text
        xml:space="preserve"
@@ -688,7 +688,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="102.41183"
+       x="189.28391"
        y="476.98425"
        id="text3517-4-5-01-0"
        sodipodi:linespacing="125%"
@@ -697,7 +697,7 @@
          sodipodi:role="line"
          x="102.41183"
          y="476.98425"
-         style="font-size:11px"
+         style="font-size:11px;text-anchor:end;text-align:end"
          id="tspan3525-8-4-13-7">Okt. 12 - Sept. 14</tspan></text>
     <text
        xml:space="preserve"
@@ -736,7 +736,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="106.21014"
+       x="189.27411"
        y="578.74689"
        id="text3517-4-5-1-2-4"
        sodipodi:linespacing="125%"
@@ -746,7 +746,7 @@
          sodipodi:role="line"
          x="106.21014"
          y="578.74689"
-         style="font-size:11px"
+         style="font-size:11px;text-anchor:end;text-align:end"
          id="tspan3525-8-4-1-6-5">Sept. 05 - Juli 10</tspan></text>
     <text
        xml:space="preserve"
@@ -785,7 +785,7 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-       x="102.32154"
+       x="188.86597"
        y="534.86334"
        id="text3517-4-5-0-4-8"
        sodipodi:linespacing="125%"
@@ -795,7 +795,7 @@
          sodipodi:role="line"
          x="102.32154"
          y="534.86334"
-         style="font-size:11px"
+         style="font-size:11px;text-anchor:end;text-align:end"
          id="tspan3525-8-4-5-5-5">Okt. 05 - Sept. 12</tspan></text>
     <text
        xml:space="preserve"
@@ -1740,5 +1740,5 @@
            height="168.57143"
            x="40"
            y="600.93359" /></flowRegion><flowPara
-         id="flowPara4201"></flowPara></flowRoot>  </g>
+         id="flowPara4201" /></flowRoot>  </g>
 </svg>
