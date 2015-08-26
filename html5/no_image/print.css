@@ -165,8 +165,8 @@ li.ad {
 }
 li.ad:before {
 	display: inline-block;
-	width: 10px;
-	height: 10px;
+	width: 13px;
+	/*height: 13px;*/
 	padding-right: 5px;
 	/*padding-left: 10px;*/
 	content: url(images/home.svg);
@@ -178,8 +178,8 @@ li.mail {
 }
 li.mail:before {
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 13px;
+  /*height: 10px;*/
   padding-right: 5px;
   /*padding-left: 10px;*/
   content: url(images/mail.svg);
@@ -191,8 +191,8 @@ li.tel {
 }
 li.tel:before {
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 13px;
+  /*height: 10px;*/
   padding-right: 5px;
   /*padding-left: 10px;*/
   content: url(images/old-phone.svg);
@@ -204,8 +204,8 @@ li.web {
 }
 li.web:before {
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 13px;
+  /*height: 10px;*/
   padding-right: 5px;
   /*padding-left: 10px;*/
   content: url(images/network.svg);
@@ -284,6 +284,13 @@ ul.languages li {
   padding-left: 40px;
   background-position: 0 .5em;
   margin-top: 6px;
+}
+.objective {
+  width: 470px;
+  margin-top: 0px;
+  margin-left: 130px;
+  /*float: right;*/
+  /*text-align: left;*/
 }
 
 .self ul li {
