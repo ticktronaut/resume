@@ -140,10 +140,13 @@ div.content {
 }
 
 .save:after {
-	content: "stuff needed for print goes here";
-  float: right;
-  padding-top: 0px;
-  padding-right: 30px;
+	float: right;
+	padding-top: 0px;
+	padding-right: 20px;
+	/*display:inline-block;*/
+	content: url(images/qr.png);
+	width: 150px;
+	height: 20px;
 }
 
 img.north_img {
@@ -152,16 +155,16 @@ img.north_img {
 }
 
 h1 {
-  color: #ed3857;
-  width: 700px;
-  font-size: 55px;
+  color:#ed3857;
+  width:700px;
+  font-size:55px;
 	/*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
   /*margin-top:80px;*/
 	margin-top:0px;
   margin-left:50px;
-  margin-bottom: 0px;
+  margin-bottom:0px;
   display:inline-block;
-  text-transform: uppercase;
+  text-transform:uppercase;
   /*clear: both;*/
 }
 
@@ -282,7 +285,7 @@ li.count1:before {
   width: 13px;
   /*height: 13px;*/
   padding-right: 25px;
-  position: relative;
+  position:relative;
   top: 0px;
   /*padding-left: 10px;*/
   content: url(images/count1.svg);
