@@ -50,6 +50,9 @@ body {
   background: url(images/bar.svg) no-repeat left center;
   padding-left: 50px;
 }*/
+h2 {
+	page-break-after: avoid;
+}
 h2:before {
     display: inline-block;
     /*margin: 0 0 5px 20px;*/
@@ -131,9 +134,16 @@ div.content {
   padding-right: 30px;
 }*/
 
-.save {
+.save span {
 	/*visibility: hidden;*/ /*element is not visible, but still take space*/
 	display: none;
+}
+
+.save:after {
+	content: "stuff needed for print goes here";
+  float: right;
+  padding-top: 0px;
+  padding-right: 30px;
 }
 
 img.north_img {
@@ -146,7 +156,8 @@ h1 {
   width: 700px;
   font-size: 55px;
 	/*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
-  margin-top:80px;
+  /*margin-top:80px;*/
+	margin-top:0px;
   margin-left:50px;
   margin-bottom: 0px;
   display:inline-block;
@@ -246,6 +257,7 @@ ul.skills {
   margin-top: 7px;
   /*margin-top: -6px;*/
   list-style-type: none;
+	page-break-inside: avoid;
 }
 
 ul.skills li {

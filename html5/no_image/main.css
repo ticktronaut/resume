@@ -137,7 +137,7 @@ h1 {
   color: #ed3857;
   width: 700px;
   font-size: 55px;
-  font-family: "Trebuchet MS";
+	/*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
   margin-top:80px;
   margin-left:50px;
   margin-bottom: 0px;
