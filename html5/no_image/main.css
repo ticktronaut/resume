@@ -252,3 +252,12 @@ ul.languages li {
   /*float: right;*/
   /*text-align: left;*/
 }
+
+/*@media print {
+	#paper {
+		display: none;
+	}
+	#wrapper:after {
+		content: url('files/cv.svg') !important;
+	}
+}*/

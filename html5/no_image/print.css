@@ -3,5 +3,5 @@
 	display: none;
 }
 #wrapper:after {
-	content: url('../../svg/cv.svg');
+	content: url('files/cv.svg') !important;
 }

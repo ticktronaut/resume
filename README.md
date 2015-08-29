@@ -25,5 +25,5 @@ The work is licensed under Creative Commons. You are free to use the templates, 
  - [ ] add colors (blue.css, red.css, orange.css, green.css)
  - [ ] automize content management (change both, html5 and svg and put content into one xml-file)
  - [ ] make two versions (with and without image)
- - [ ] add print.css (or PDF print in JavaScipt to prevent header and footer)
+ - [x] add print.css
  - [x] embed qr-code in SVG and PDF-version
