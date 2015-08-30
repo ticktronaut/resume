@@ -8,7 +8,7 @@ Since I was bored of my old resume I designed a new one. One version I designed 
 
 At the moment the red version is available only. However, different colors will be coming soon.
 
-![resume](images/preview_preview.png)
+![resume](images/preview_colors.png)
 
 ## Typography 
 
