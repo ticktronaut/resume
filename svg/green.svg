@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="blue.svg">
+   sodipodi:docname="green.svg">
   <defs
      id="defs4">
     <clipPath
@@ -236,7 +236,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -726,7 +726,7 @@
          x="189.73123"
          y="534.86334"
          style="font-size:11px;text-align:end;text-anchor:end"
-         id="tspan3525-8-4-5-5-5">Oct 05 - Sept 12</tspan></text>
+         id="tspan3525-8-4-5-5-5">Oct 05 - Sep 12</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
@@ -1725,6 +1725,6 @@
          x="189.40359"
          y="477.08032"
          style="font-size:11px;text-align:end;text-anchor:end"
-         id="tspan3525-8-4-5-5-5-3">Oct 12 - Sept 14</tspan></text>
+         id="tspan3525-8-4-5-5-5-3">Oct 12 - Sep 14</tspan></text>
   </g>
 </svg>
