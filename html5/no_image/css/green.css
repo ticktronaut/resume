@@ -261,3 +261,11 @@ ul.languages li {
 		content: url('files/cv.svg') !important;
 	}
 }*/
+
+#preloadedImages
+{
+    width: 0px;
+    height: 0px;
+    display: inline;
+    background-image: url(../../../svg/green.svg);
+}
