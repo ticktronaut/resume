@@ -6,7 +6,7 @@ Since I was bored of my old resume I designed a new one. One version I designed 
 
 ## Colors
 
-At the moment the red version is available only. However, different colors will be coming soon.
+Colors are available:
 
 ![resume](images/preview_colors.png)
 
@@ -17,8 +17,14 @@ To get different colors you just have to edit the following lines in the header 
   <link type="text/css" rel="stylesheet" href="css/print_orange.css" media="print"/>
 ```
 
-Replace orange.css and orangeprint.css by blue.css/blueprint.css, red.css/redprint.css, green.css/greenprint.css.
+Replace orange.css and orange\_print.css by 
+  - blue.css and blue\_print.css,
+  - red.css and red\_print.css,
+  - or green.css and green\_print.css.
 
+## Print
+
+tbc
 
 ## Typography 
 
