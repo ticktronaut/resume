@@ -10,6 +10,16 @@ At the moment the red version is available only. However, different colors will 
 
 ![resume](images/preview_colors.png)
 
+To get different colors you just have to edit the following lines in the header of index.html:
+
+```html
+  <link href="css/orange.css" media="screen" rel="stylesheet" type="text/css" />
+  <link type="text/css" rel="stylesheet" href="css/print_orange.css" media="print"/>
+```
+
+Replace orange.css and orangeprint.css by blue.css/blueprint.css, red.css/redprint.css, green.css/greenprint.css.
+
+
 ## Typography 
 
 I am not an expert in these things, so I used Trebuchet MS font. It is popular and whitespread. Besides it is a good sans serif alternative to Arial, which makes a slight difference.
