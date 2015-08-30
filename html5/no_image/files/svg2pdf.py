@@ -1,1 +1,0 @@
-/home/usappz/resume/svg/svg2pdf.py
