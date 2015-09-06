@@ -24,13 +24,9 @@ Replace orange.css and orange\_print.css by
 
 ## Print
 
-### Print Button
+**Print Button:** If JavaScript is activated, the PDF is opened in print-mode. If JavaScript is not activated, pressing the PDF-button just follows a link to the PDF-version.
 
-If JavaScript is activated, the PDF is opened in print-mode. If JavaScript is not activated, pressing the PDF-button just follows a link to the PDF-version.
-
-### Browser Print
-
-For styling the print-version print.css was written. In the case that the browsers internal print tool is used print.css hides all content of the website and embeds the SVG-version of the cv.
+**Browser Print:** For styling the print-version print.css was written. In the case that the browsers internal print tool is used print.css hides all content of the website and embeds the SVG-version of the cv.
 
 ## Typography 
 
