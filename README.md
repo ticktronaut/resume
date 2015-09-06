@@ -24,7 +24,13 @@ Replace orange.css and orange\_print.css by
 
 ## Print
 
-tbc
+### Print Button
+
+If JavaScript is activated, the PDF is opened in print-mode. If JavaScript is not activated, pressing the PDF-button just follows a link to the PDF-version.
+
+### Browser Print
+
+For styling the print-version print.css was written. In the case that the browsers internal print tool is used print.css hides all content of the website and embeds the SVG-version of the cv.
 
 ## Typography 
 
@@ -40,7 +46,7 @@ The work is licensed under Creative Commons. You are free to use the templates, 
 
 ## TODO
 
- - [ ] add colors (blue.css, red.css, orange.css, green.css)
+ - [x] add colors (blue.css, red.css, orange.css, green.css)
  - [ ] automize content management (change both, html5 and svg and put content into one xml-file)
  - [ ] make two versions (with and without image)
  - [x] add print.css
