@@ -27,6 +27,8 @@ Also the path to the PDF-file in the printPDF-script in the beginning of index.h
 ```javascript
   var page = window.open('../../svg/orange.pdf')
 
+(blue.pdf, red.pdf, green.pdf)
+
 ## Print
 
 **Print Icon:** If JavaScript is activated, the PDF is opened in print-mode. If JavaScript is not activated, pressing the print-icon just follows a link to the PDF-version.
