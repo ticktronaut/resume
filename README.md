@@ -1,6 +1,6 @@
 # Resume
 
-Since I was bored of my old resume I designed a new one. One version I designed in HTML5 and CSS3. To make it as stable as possible I do not use any scripts. A further version I designed in SVG (using inkscape). This one has been converted to pdf.
+Since I was bored of my old resume I designed a new one. One version I designed in **HTML5** and **CSS3**. To make it as stable as possible I do not use any scripts (except for printing, if JavaScript is activated). A further version I designed in **SVG** (using inkscape). This one has been converted to **PDF** (if inkscape is installed, svg2pdf.py can be used for this purpose).
 
 ![resume](images/preview.png)
 
@@ -21,6 +21,11 @@ Replace orange.css and orange\_print.css by
   - blue.css and blue\_print.css,
   - red.css and red\_print.css,
   - or green.css and green\_print.css.
+
+Also the path to the PDF-file in the printPDF-script in the beginning of index.html must be changed to the according color. 
+
+```javascript
+  var page = window.open('../../svg/orange.pdf')
 
 ## Print
 
