@@ -22,11 +22,21 @@ Replace orange.css and orange\_print.css by
   - red.css and red\_print.css,
   - or green.css and green\_print.css.
 
-Also the path to the PDF-file in the printPDF-script in the beginning of index.html must be changed to the according color. 
+For the right links to the linked PDFs, the path to the PDF-file in the printPDF-script in the beginning of index.html must be changed to the according color.
 
 ```javascript
   var page = window.open('../../svg/orange.pdf')
 ```
+
+Also the initial path of the print link in index.html must be changed
+
+```html
+<a class="north cboxElement" id="printLink" href="../../svg/orange.pdf" unselectable="on"><img class="north_img" src="images/print.svg" alt=""></a>
+
+```
+
+Having to change so many lines is a bit annoying. I will change that later on.
+
 
 ## Print
 
