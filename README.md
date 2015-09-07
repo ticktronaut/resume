@@ -26,8 +26,7 @@ Also the path to the PDF-file in the printPDF-script in the beginning of index.h
 
 ```javascript
   var page = window.open('../../svg/orange.pdf')
-
-(blue.pdf, red.pdf, green.pdf)
+```
 
 ## Print
 
