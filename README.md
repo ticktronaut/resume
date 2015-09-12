@@ -6,11 +6,15 @@ Since I was bored of my old resume I designed a new one. One version I designed 
 
 ## Colors
 
-Colors are available:
+Four colors are available (to every color there is a corresponding css):
 
 ![resume](images/preview_colors.png)
 
-To get different colors you just have to edit the following lines in the header of index.html:
+## Edit 
+
+### Change Color
+
+To get different colors you just have to edit the following lines in the header of _index.html_:
 
 ```html
   <link href="css/orange.css" media="screen" rel="stylesheet" type="text/css" />
@@ -22,7 +26,7 @@ Replace orange.css and orange\_print.css by
   - red.css and red\_print.css,
   - or green.css and green\_print.css.
 
-For the right links to the linked PDFs, the path to the PDF-file in the printPDF-script in the beginning of index.html must be changed to the according color.
+For the right links to the linked PDFs, the path to the PDF-file in the printPDF-script in the beginning of _index.html_ must be changed to the according color.
 
 ```javascript
   var page = window.open('../../svg/orange.pdf')
