@@ -86,7 +86,7 @@ The work is licensed under Creative Commons. You are free to use the templates, 
 ## TODO
 
  - [x] add colors (blue.css, red.css, orange.css, green.css)
- - [ ] automize content management (change both, html5 and svg and put content into one xml-file) (https://jsonresume.org)
+ - [ ] automize content management (change both, html5 and svg/pdf by using single XML-file for content) (https://jsonresume.org)
  - [ ] make two versions (with and without image)
  - [x] add print.css
  - [x] embed qr-code in SVG and PDF-version
