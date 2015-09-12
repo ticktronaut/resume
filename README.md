@@ -12,6 +12,20 @@ Four colors are available (to every color there is a corresponding css):
 
 ## Edit 
 
+### Change SVG and PDF
+
+The best way to change the SVG is by the unsing the Inkscape GUI.
+
+```bash
+inkscape svg/orange.svg
+```
+
+You can get Inkscape from the [website](https://inkscape.org/de/herunterladen) or - if you are running Ubuntu - by using Aptitude:
+
+```bash
+sudo apt-get install inkscape
+```
+	
 ### Change Color
 
 To get different colors you just have to edit the following lines in the header of _index.html_:
