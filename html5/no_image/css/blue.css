@@ -180,6 +180,9 @@ li.address {
 .occupation {
   font-weight: bold;
 }
+.school {
+  /*font-weight: bold;*/
+}
 .organization {
   font-style: italic;
 }
