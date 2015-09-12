@@ -25,6 +25,15 @@ You can get Inkscape from the [website](https://inkscape.org/de/herunterladen) o
 ```bash
 sudo apt-get install inkscape
 ```
+
+To convert the SVG to PDF you can use the python script _svg2pdf.py_ (which assumes that inkscape is installed):
+
+```
+cd svg
+./svg2pdf.py
+```
+
+It automatically converts all SVG-files in the directory to PDF.
 	
 ### Change Color
 
