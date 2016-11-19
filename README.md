@@ -90,3 +90,4 @@ The work is licensed under Creative Commons. You are free to use the templates, 
  - [ ] make two versions (with and without image)
  - [x] add print.css
  - [x] embed qr-code in SVG and PDF-version
+ - [ ] create business card
