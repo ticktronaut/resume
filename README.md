@@ -12,9 +12,18 @@ Four colors are available (to every color there is a corresponding css):
 
 ## Edit 
 
+### Install font on Ubuntu
+
+If your are Linux user you might have to install the font Trebuchet MS first:
+
+```bash
+sudo apt-get update
+sudo apt-get install ttf-mscorefonts-installer
+```
+
 ### Change SVG and PDF
 
-The best way to change the SVG is by the unsing the Inkscape GUI.
+The best way to change the SVG is by the using the Inkscape GUI.
 
 ```bash
 inkscape svg/orange.svg
